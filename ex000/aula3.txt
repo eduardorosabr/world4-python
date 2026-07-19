@@ -1,0 +1,5 @@
+Objeto é uma coisa material ou abstrata que é feita a partir de uma classe e pode ser descrito por meio de seus atributos, métodos e estado atual
+
+
+Objetos, em outras palavrás são variáveis que além de guardar dados, podem fazer coisas com esses dados.
+

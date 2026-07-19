@@ -1,0 +1,26 @@
+Notificação
+Instanciar
+Métodos
+Estado
+
+Sacola
+atributos:
+espessura,
+cor,
+tamanho.
+Métodos
+abrir sacola(),
+encher sacola(),
+esvazoar sacola()
+
+AvaliaçãoEscolar
+atributos:
+hora,
+matéria,
+professor,
+dificuldade
+métodos:
+iniciaravaliacao(),
+adiaravaliacao(),
+revisaravaliacao()
+

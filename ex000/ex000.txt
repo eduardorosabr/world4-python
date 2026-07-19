@@ -1,0 +1,15 @@
+Ex1)Em que decada aconteceu a crise de software no mercado?
+R1) Decada de 1960
+
+Ex2)Qual das características a seguir, identifica as primeiras linguagens lineares?
+R2) Desvios forçados com GOTO
+
+Ex3) Quem foi o criador de smalltalk?
+R3) Alan Kay
+
+Ex4) A linguagem simula, foi um super conjunto de qual outra linguagem?
+R4) Algol
+
+Ex5) Na sigla ooad, as ultimas duas letras significam?
+r5) Analisys / Design?
+
